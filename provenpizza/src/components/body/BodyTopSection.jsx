@@ -1,11 +1,13 @@
 import React from "react";
-import "./Body.css";
-const Body = () => {
+import "./BodyTopSection.css";
+const BodyTopSection = () => {
   return (
     <div className="pizza-pic">
-      <div className="left-column">
+      <div className="top-left-column">
         <div className="body-text-container">
-          <h1 id='main-title'>Perfect Neapolitan pizzas start with a perfect dough.</h1>
+          <h1 id="main-title">
+            Perfect Neapolitan pizzas start with a perfect dough.
+          </h1>
           <div className="buttons">
             <div className="booking-buttons">
               <p>Book a Table</p>
@@ -20,8 +22,8 @@ const Body = () => {
         </div>
       </div>
 
-      <div className="right-column"></div>
+      <div className="top-right-column"></div>
     </div>
   );
 };
-export default Body;
+export default BodyTopSection;
