@@ -1,7 +1,6 @@
 .heading {
   display: flex;
   justify-content: space-evenly;
-  /* border-bottom: 1px solid black; */
   position: fixed;
   background-color: white;
   width: 100%;

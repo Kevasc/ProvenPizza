@@ -1,9 +1,9 @@
 import React from "react";
-import BodyTopSection from "./BodyTopSection";
 import BodyMiddleSection from "./BodyMiddleSection";
 import BodyLowerSection from "./BodyLowerSection";
-import Menu from "./Menu";
-import RestaurantMap from "./restaurantmap/RestaurantMap";
+import BodyTopSection from "./BodyTopSection";
+import Menu from "../menu/Menu";
+
 
 const BodyContainer = () => {
   return (
@@ -12,7 +12,6 @@ const BodyContainer = () => {
       <BodyMiddleSection />
       <BodyLowerSection />
       <Menu />
-      <RestaurantMap />
     </div>
   );
 };

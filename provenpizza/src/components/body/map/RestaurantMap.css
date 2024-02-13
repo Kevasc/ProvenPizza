@@ -7,14 +7,13 @@
   justify-content: center;
 }
 
-.map-text-container{
-  border:  2px solid yellow;
+.map-text-container {
   height: inherit;
+  padding: 45px;
 }
 
 .column1 {
   display: flex;
-  width: 33%;
   background-position: center;
   background-size: cover;
   background-image: url("pizzaMap.jpeg");
@@ -23,9 +22,7 @@
 }
 
 .column2 {
-  width: 33%;
   color: black;
-  border: 2px solid green;
   background-color: #dbe0e9;
   font-size: large;
   display: flex;
@@ -36,11 +33,10 @@
 }
 
 .column3 {
-  width: 33%;
   color: black;
   font-size: large;
   background-color: #dbe0e9;
-  border: 2px solid green;
+
   display: flex;
   flex: 1;
   height: inherit;
@@ -53,13 +49,13 @@
 .map-headings {
   font-size: 50px;
   font-weight: bold;
-  padding-top: 20px;
+  padding: 20px 0 10px;
 }
 
 .map-text {
-  font-size: 16px;
-  line-height: 26px;
-  padding: 15px;
+  font-size: 17px;
+  padding: 15px 2px 25px;
+  line-height: 1.65;
 }
 
 .map-button {
@@ -72,4 +68,44 @@
   font-size: 18px;
   width: 80%;
   padding: 6px 6px 6px;
+}
+
+.map-button-container {
+  display: flex;
+  justify-content: left;
+}
+
+.bold-days1 {
+  font-weight: 800;
+}
+
+.bold-days2 {
+  font-weight: 800;
+}
+
+.bold-subscribe-text {
+  font-weight: 700;
+  font-family: "Source Sans Pro", Helvetica, Arial, Lucida, sans-serif;
+}
+
+.subscribe-button {
+  margin-top: 1.5em;
+  background-color: #000;
+  min-width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+  text-align: center;
+}
+
+.input-button {
+  margin-top: 1em;
+  border: .5px solid black;
+  background-color: white;
+  min-width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin: 9px 0 9px;
+  display: inline-grid;
 }
