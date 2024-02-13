@@ -68,6 +68,7 @@
   font-size: 18px;
   width: 80%;
   padding: 6px 6px 6px;
+  cursor: pointer;
 }
 
 .map-button-container {
@@ -97,6 +98,7 @@
   font-weight: 700;
   color: white;
   text-align: center;
+  cursor: pointer;
 }
 
 .input-button {

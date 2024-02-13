@@ -48,7 +48,7 @@
   justify-content: left;
   margin: 20px 0;
   line-height: 1.7em;
-  
+  cursor: pointer;
 }
 
 .booking-buttons {
