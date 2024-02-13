@@ -1,30 +1,36 @@
 .pizza-pic {
   display: flex;
   background-image: url("pizzaSpinning.jpeg");
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 750px;
+  margin-top: 80px;
 }
 
 .body-text-container {
-  border: 2px solid yellow;
   width: 80%;
   height: 60%;
 }
 
 .top-left-column {
-  border: 2px solid orange;
   color: white;
   height: inherit;
   width: 50%;
   display: flex;
   align-items: center;
-  justify-content: right;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+}
+
+.extra-text {
+  width: 80%;
+  font-weight: bold;
+  font-size: large;
 }
 
 .top-right-column {
-  border: 2px solid red;
   height: inherit;
   width: 50%;
 }
@@ -32,17 +38,25 @@
 #main-title {
   font-size: 65px;
   text-align: left;
+  letter-spacing: -2px;
 }
 
 .buttons {
-  border: 2px solid lime;
   display: flex;
-  justify-content: space-evenly;
   height: 3rem;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 20px 0;
+  line-height: 1.7em;
+  
 }
 
 .booking-buttons {
   border: 2px solid white;
-  display: flex;
-  align-items: center;
+  display: inline-block;
+  font-weight: bolder;
+  font-size: 18px;
+  padding: 6px;
+  margin: 5px;
+
 }

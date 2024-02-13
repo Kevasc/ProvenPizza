@@ -1,0 +1,75 @@
+.map-area {
+  display: flex;
+  height: 875px;
+  flex-direction: row;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+.map-text-container{
+  border:  2px solid yellow;
+  height: inherit;
+}
+
+.column1 {
+  display: flex;
+  width: 33%;
+  background-position: center;
+  background-size: cover;
+  background-image: url("pizzaMap.jpeg");
+  flex: 1;
+  height: inherit;
+}
+
+.column2 {
+  width: 33%;
+  color: black;
+  border: 2px solid green;
+  background-color: #dbe0e9;
+  font-size: large;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  height: inherit;
+}
+
+.column3 {
+  width: 33%;
+  color: black;
+  font-size: large;
+  background-color: #dbe0e9;
+  border: 2px solid green;
+  display: flex;
+  flex: 1;
+  height: inherit;
+}
+
+.white-pr {
+  color: white;
+}
+
+.map-headings {
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.map-text {
+  font-size: 16px;
+  line-height: 26px;
+  padding: 15px;
+}
+
+.map-button {
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  font-weight: bold;
+  font-size: 18px;
+  width: 80%;
+  padding: 6px 6px 6px;
+}

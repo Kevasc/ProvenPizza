@@ -20,6 +20,9 @@ const BodyTopSection = () => {
             </div>
           </div>
         </div>
+        <p className="extra-text">
+          PROVEN Pizzeria | Authentic Neapolitan Wood Fired Pizzas
+        </p>
       </div>
 
       <div className="top-right-column"></div>
