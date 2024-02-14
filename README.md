@@ -10,9 +10,9 @@ This is a single page aplicaction replica of local pizza restaurant [Proven Pizz
 
 
 ## To run 
-- clone the ProvenPizza repo.
-- install the dependencies.
-- run `npm start`.
+- Clone the ProvenPizza repo.
+- Install the dependencies.
+- Run `npm start`.
 
 
 ## Documentation
