@@ -3,7 +3,7 @@ import "./Menu.css";
 
 const Menu = () => {
   return (
-    <div className="main-container">
+    <div id='menu' className="main-container">
       <div className="main-content">
         <p className="menu-title">PROVEN menus.</p>
         <div className="menus-container">

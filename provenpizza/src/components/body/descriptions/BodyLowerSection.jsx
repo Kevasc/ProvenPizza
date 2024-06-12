@@ -3,7 +3,6 @@ import "./BodyLowerSection.css";
 const BodyLowerSection = () => {
   return (
     <div className="lower-section">
-      
       <div className="lower-right-column">
         <div className="fire"></div>
       </div>
