@@ -4,7 +4,6 @@ import BodyLowerSection from "./BodyLowerSection";
 import BodyTopSection from "./BodyTopSection";
 import Menu from "../menu/Menu";
 
-
 const BodyContainer = () => {
   return (
     <div>

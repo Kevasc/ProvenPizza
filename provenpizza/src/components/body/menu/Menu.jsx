@@ -3,7 +3,7 @@ import "./Menu.css";
 
 const Menu = () => {
   return (
-    <div id='menu' className="main-container">
+    <div id="menu" className="main-container">
       <div className="main-content">
         <p className="menu-title">PROVEN menus.</p>
         <div className="menus-container">
@@ -19,23 +19,29 @@ const Menu = () => {
           <div className="menus">
             <div className="menu-container">
               <div className="menu-main" />
-              <div className="menu-button-container"><div className="menu-button">
-                <p>Main menu</p>
-              </div></div>
+              <div className="menu-button-container">
+                <div className="menu-button">
+                  <p>Main menu</p>
+                </div>
+              </div>
             </div>
 
             <div className="menu-container">
               <div className="menu-dessert"></div>
-              <div className="menu-button-container"><div className="menu-button">
-                <p>Dessert menu</p>
-              </div></div>
+              <div className="menu-button-container">
+                <div className="menu-button">
+                  <p>Dessert menu</p>
+                </div>
+              </div>
             </div>
 
             <div className="menu-container">
               <div className="menu-kids"></div>
-              <div className="menu-button-container"><div className="menu-button">
-                <p>Kids menu</p>
-              </div></div>
+              <div className="menu-button-container">
+                <div className="menu-button">
+                  <p>Kids menu</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>

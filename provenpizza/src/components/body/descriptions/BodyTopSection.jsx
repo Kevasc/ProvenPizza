@@ -1,5 +1,6 @@
 import React from "react";
 import "./BodyTopSection.css";
+
 const BodyTopSection = () => {
   return (
     <div className="pizza-pic">

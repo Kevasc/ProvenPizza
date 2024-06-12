@@ -19,13 +19,12 @@
   display: flex;
   align-items: center;
   cursor: pointer;
-
 }
 
 .logo-img {
-    height: 65px;
-    display: flex;
-    padding-top: 20px;
+  height: 65px;
+  display: flex;
+  padding-top: 20px;
 }
 
 .logo {

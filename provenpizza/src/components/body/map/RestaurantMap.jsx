@@ -3,9 +3,8 @@ import "./RestaurantMap.css";
 
 const RestaurantMap = () => {
   return (
-    <div id='find-us' className="map-area">
+    <div id="find-us" className="map-area">
       <div className="column1"></div>
-
       <div className="column2">
         <div className="map-text-container">
           <p className="map-headings">Finding us.</p>
