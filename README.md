@@ -1,6 +1,5 @@
 # ProvenPizza
-
-This is a single page aplicaction replica of local pizza restaurant [Proven Pizzaria](https://www.provenpizzeria.co.uk/).
+This is a single-page application replica of the local pizza restaurant Proven Pizzaria. While it primarily serves as a static version, I added a smooth scroll feature to the header for improved interactivity.
 
 ## How its made 
 - HTML
