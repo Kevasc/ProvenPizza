@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.309e6224.css",
+    "main.js": "/static/js/main.31022348.js",
+    "static/js/453.30210d05.chunk.js": "/static/js/453.30210d05.chunk.js",
+    "static/media/dough.jpeg": "/static/media/dough.0cee110e39cb203070b2.jpeg",
+    "static/media/pizzaSpinning.jpeg": "/static/media/pizzaSpinning.e56161bf347dac82e2d5.jpeg",
+    "static/media/pizzaMap.jpeg": "/static/media/pizzaMap.81680b1f102453625f29.jpeg",
+    "static/media/fire.jpeg": "/static/media/fire.ff3c1c9051d132346670.jpeg",
+    "static/media/MenuMain.png": "/static/media/MenuMain.5869449ef397b6b4a243.png",
+    "static/media/MenuKids.png": "/static/media/MenuKids.f84c957b3ba755f3df0b.png",
+    "static/media/MenuDessert.png": "/static/media/MenuDessert.90e3cfc9a6ec5e9aee5c.png",
+    "static/media/alt-logo.jpeg": "/static/media/alt-logo.f22ec528909b5af8ea53.jpeg",
+    "index.html": "/index.html",
+    "main.309e6224.css.map": "/static/css/main.309e6224.css.map",
+    "main.31022348.js.map": "/static/js/main.31022348.js.map",
+    "453.30210d05.chunk.js.map": "/static/js/453.30210d05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.309e6224.css",
+    "static/js/main.31022348.js"
+  ]
+}
